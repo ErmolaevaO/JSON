@@ -92,3 +92,4 @@ git push
 }
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 нажать "Commit changes"
+
